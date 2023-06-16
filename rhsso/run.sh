@@ -1,0 +1,1 @@
+podman run -d --name sso -p 8282:8080 --env-file=.env custom-sso
