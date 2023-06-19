@@ -1,4 +1,4 @@
-This is a simple sample showing how to protected your Swagger-ui with RHSSO.
+This is a simple sample showing how to protect your Swagger-ui with RHSSO.
 
 # Steps
 
